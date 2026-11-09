@@ -61,11 +61,6 @@ Na Sprint 2, o projeto receberá novas funcionalidades, incluindo:
 
 Escolher um tema para o catálogo e personalizar a identidade visual do projeto, modificando as cores definidas em `:root` para criar uma paleta própria.
 
-## 📚 Materiais de Apoio
-
-- Slides apresentados durante a aula.
-- Prints do código comentado.
-- Escopo e orientações do projeto.
 
 ---
 
